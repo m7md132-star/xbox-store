@@ -1,0 +1,139 @@
+header {
+  background-color: #3bc218;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+}
+body {
+  margin: 00;
+  font-family: "Google Sans", sans-serif;
+}
+.logo {
+  width: 50px;
+  margin: 0px;
+}
+.header-links a {
+  color: white;
+  padding: 5px 20px;
+  margin: 0px;
+}
+.header-links button {
+  color: white;
+  padding: 5px 20px;
+}
+
+.header-links a:hover {
+  background-color: #2b8e12;
+  border-radius: 15px;
+}
+.header-links button {
+  background-color: #0b2505;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 10px;
+}
+.header-links button:hover {
+  background-color: #c7f7bb;
+  border-radius: 15px;
+  color: #000000;
+}
+.landing {
+  background-color: #3bc218;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+  color: white;
+  border-radius: 0 0 50px 50px;
+}
+.left_landing_page {
+  width: 400px;
+}
+.landingsearch input {
+  border-radius: 15px;
+  background-color: none;
+  outline: none;
+  height: 25px;
+  padding: 0 10px;
+  border: none;
+}
+.landingsearch button {
+  border-radius: 15px;
+  background-color: #0b2505;
+  color: white;
+  outline: none;
+  height: 25px;
+  border: none;
+  padding: 5 20px;
+  position: absolute;
+  left: 200px;
+}
+.landingsearch button:hover {
+  background-color: #c7f7bb;
+  border-radius: 15px;
+  color: #000000;
+}
+.img_landing img {
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+}
+.trending {
+  padding: 10px 50px;
+}
+.trending span {
+  color: #0b2505;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.game_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.game_header button {
+  border-radius: 8px;
+  background-color: #0b2505;
+  color: white;
+  outline: none;
+  height: 25px;
+  border: none;
+  padding: 15px 15xp;
+}
+.game_header button:hover {
+  border-radius: 8px;
+  background-color: #c7f7bb;
+  color: black;
+  outline: none;
+  height: 25px;
+  border: none;
+}
+.game_header h1 {
+  margin-top: 0;
+}
+.card_info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 25px;
+}
+.card {
+  width: 295px;
+  background-color: #eeeeee;
+  border-radius: 20px;
+}
+.trending_games img {
+  width: 295px;
+  height: 200px;
+  border-radius: 20px 20px 0 0;
+}
+.card_info img {
+  width: 20px;
+  height: 20px;
+}
+.trending_games {
+  display: flex;
+  gap: 20px;
+}
