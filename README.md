@@ -2,4 +2,4 @@ a simple project for an xbox store made it as one of my first projects as junior
 
 a static website 
 
-to open it just click on the index.html file
+to open it just open this link https://m7md132-star.github.io/xbox-store/
